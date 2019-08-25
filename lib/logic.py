@@ -7,8 +7,8 @@ from pubnub.enums import PNStatusCategory
 from pubnub.callbacks import SubscribeCallback
 from pubnub.pnconfiguration import PNConfiguration
 
-API_KEY = '6aa60c72-ae58-436a-81c1-b0726efed734'
-API_SECRET = '6658fa295ac10defdcc8b607fe76ed4a5724127687408105d3d6801212e0f8d2'
+API_KEY = ''
+API_SECRET = ''
 api = python_bitbankcc.private(API_KEY, API_SECRET)
 orderAmount = 0.01
 maxHoldBtc = 1.0
